@@ -1,4 +1,5 @@
-# jake-m-best-boss.Absolutely — copy **everything** below into your `index.html` file. It makes a flashy, animated “Jake M. is the Best Boss” page. 🏆😎
+# jake-m-best-boss.Absolutely 
+copy **everything** below into your `index.html` file. It makes a flashy, animated “Jake M. is the Best Boss” page. 🏆😎
 
 :::writing{variant="document" id="74162" title="Jake M. Best Boss Website — index.html"} \<!DOCTYPE html\> \<html lang="en"\> \<head\> \<meta charset="UTF-8"\> \<meta name="viewport" content="width=device-width, initial-scale=1.0"\> \<title\>Jake M. — Best Boss Ever\</title\>
 
